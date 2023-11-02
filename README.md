@@ -1,6 +1,8 @@
 # Game Portfolio
 
-Here are an overview of all my game projects
+Here are an overview of all my game projects.
+
+(The gifs may take a few seconds to load because of their large size)
 
 ## Unity Projects
 
